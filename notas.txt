@@ -10,7 +10,9 @@ keloran
 
 https://registry.jsonresume.org/themes
 
-resume export test --format pdf --theme Elegant --dir ./export
+resume serve --theme kards
+
+resume export test --format pdf --theme keloran --dir ./export
 npm install jsonresume-theme-Elegant
 
 comandos para consertar:
