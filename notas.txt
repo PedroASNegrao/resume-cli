@@ -1,0 +1,22 @@
+Site:
+kards
+keloran
+kendall
+
+
+PDF:
+orbit
+keloran
+
+https://registry.jsonresume.org/themes
+
+resume export test --format pdf --theme Elegant --dir ./export
+npm install jsonresume-theme-Elegant
+
+comandos para consertar:
+
+npm cache verify 
+npm cache clear --force
+
+export
+C:\GitHubDesktop\resume-cli\export
