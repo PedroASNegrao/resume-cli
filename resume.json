@@ -1,0 +1,204 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Pedro Negrão",
+    "label": "Intern | Data Analysis | Full Stack Developer | Python | AI",
+    "image": "https://i.ibb.co/ygPbXbD/IMG-20200330-234147.jpg",
+    "email": "pedron_1997@hotmail.com",
+    "phone": "+55 (61) 99229-7024",
+    "url": "",
+    "summary": "Network Engineering student with interest in full-stack development, data analytics, and artificial intelligence. currently, I'm working as a data analysis intern at Serasa Experian. I'm interested in doing projects and developing myself more and more!\n\nGithub: https://github.com/PedroASNegrao",
+    "location": {
+      "countryCode": "BR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pedro-negrão-767121162",
+        "url": "https://www.linkedin.com/in/pedro-negrão-767121162/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Centro Gestor e Operacional do Sistema de Proteção da Amazônia",
+      "position": "Research Scientist",
+      "startDate": "2022-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Research and development of weather-independent automated systems for monitoring and detecting environmental disasters based on machine learning and multispectral satellite imagery",
+      "url": "https://www.linkedin.com/company/censipam/",
+      "location": "Brasília, Distrito Federal, Brasil"
+    },
+    {
+      "name": "Serasa Experian",
+      "position": "Software Research and Development Intern",
+      "startDate": "2021-07-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Research and development of process automation solutions with Machine Learning using python",
+      "url": "https://www.linkedin.com/company/serasaexperian/",
+      "location": "Brasília, Distrito Federal, Brasil"
+    },
+    {
+      "name": "MDS - Ministério do Desenvolvimento Social e Combate à Fome",
+      "position": "Developer",
+      "startDate": "2021-01-31",
+      "endDate": "2022-06-30",
+      "highlights": [],
+      "summary": "Researcher - Developer at the Ministry of Citizenship with the aim of delivering a scalable application that assists the services of the Unified Social Assistance System and in emergency/calamity situations. Therefore, research and implementation in infrastructure and monitoring and observability tools are necessary.",
+      "url": "https://www.linkedin.com/company/ministerio-do-desenvolvimento-social-e-combate-a-fome/",
+      "location": "Brasília, Distrito Federal, Brasil"
+    },
+    {
+      "name": "Gloria Institute",
+      "position": "Site Manager",
+      "startDate": "2021-01-31",
+      "endDate": "2021-08-31",
+      "highlights": [],
+      "summary": "Responsible for coordinating the production of the official website for Glória project https://www.gloriainstitute.org/",
+      "url": "https://www.linkedin.com/company/gloria-institute/",
+      "location": "Brasília, Distrito Federal, Brasil"
+    },
+    {
+      "name": "CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "position": "Researcher Student",
+      "startDate": "2020-05-31",
+      "endDate": "2021-01-31",
+      "highlights": [],
+      "summary": "Game for the youth from public schools in order to teach and learn collaboratively. Gloria's World is a partnership between University of Brasília, IESB and CNPq. The project aims the development of a computer game to promote entrepreneurial and innovation education in a creative and interesting way",
+      "url": "https://www.linkedin.com/company/cnpq/",
+      "location": "Brasília, Distrito Federal, Brasil"
+    },
+    {
+      "name": "Rede Convida",
+      "position": "IT Project Manager",
+      "startDate": "2020-03-31",
+      "endDate": "2021-01-31",
+      "highlights": [],
+      "summary": "Rede Convida is a platform for health care to assist those who are at risk. Assistance will be provided at social welfare institutions to offer assistance in the time of Covid-19, as we want to promote health for people with inaccessibility.",
+      "url": "https://www.linkedin.com/company/rede-convida/",
+      "location": "Brasília, Distrito Federal"
+    },
+    {
+      "name": "Qubo Tecnologia",
+      "position": "Development intern",
+      "startDate": "2020-07-31",
+      "endDate": "2020-11-30",
+      "highlights": [],
+      "summary": "QUBO is an information technology, consulting, and services company. We help our customers with the power of cognitive computing, automation, cloud, data analysis, and emerging technologies.",
+      "url": "https://www.linkedin.com/company/qubo-tecnologia/",
+      "location": "Brasília, Distrito Federal, Brasil"
+    },
+    {
+      "name": "EngNet Consultoria S/C",
+      "position": "Comercial assistent",
+      "startDate": "2018-05-31",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "summary": "Founded in 2007, EngNet has already provided services to countless customers with quality and competence. Operates in the areas of web and desktop systems, dynamic websites, network infrastructure, and information security.",
+      "url": "https://www.linkedin.com/company/engnet-consultoria-s-c/",
+      "location": "Brasília e Região, Brasil"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidade de Brasília",
+      "area": "Network Engeneering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017-12-31",
+      "endDate": "2022-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Artificial Inteligence",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Keras",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "PyTorch",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "OpenCV",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Front-end Development",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Kanban",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "pt-br",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "en",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

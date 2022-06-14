@@ -6,7 +6,7 @@ kendall
 
 PDF:
 orbit
-keloran
+keloran <- Melhor
 
 https://registry.jsonresume.org/themes
 
@@ -22,3 +22,6 @@ npm cache clear --force
 
 export
 C:\GitHubDesktop\resume-cli\export
+
+Levels:
+Master, Proficient, Intermediate, Basic
