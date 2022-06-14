@@ -109,98 +109,63 @@
   "publications": [],
   "skills": [
     {
-      "name": "Inteligência artificial",
-      "level": "",
+      "name": "Artificial Inteligence",
+      "level": "Proficient",
       "keywords": []
     },
     {
       "name": "Keras",
-      "level": "",
+      "level": "Intermediate",
       "keywords": []
     },
     {
       "name": "PyTorch",
-      "level": "",
+      "level": "Intermediate",
       "keywords": []
     },
     {
       "name": "OpenCV",
-      "level": "",
+      "level": "Proficient",
       "keywords": []
     },
     {
-      "name": "Desenvolvimento de front-end",
-      "level": "",
+      "name": "Front-end Development",
+      "level": "Intermediate",
       "keywords": []
     },
     {
       "name": "Kanban",
-      "level": "",
+      "level": "Master",
       "keywords": []
     },
     {
       "name": "Vue.js",
-      "level": "",
+      "level": "Proficient",
       "keywords": []
     },
     {
       "name": "CSS",
-      "level": "",
+      "level": "Intermediate",
       "keywords": []
     },
     {
       "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Liderança",
-      "level": "",
+      "level": "Proficient",
       "keywords": []
     },
     {
       "name": "Microsoft Excel",
-      "level": "",
+      "level": "Master",
       "keywords": []
     },
     {
       "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Vendas",
-      "level": "",
+      "level": "Master",
       "keywords": []
     },
     {
       "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft PowerPoint",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestão",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Inglês",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Atendimento ao Cliente",
-      "level": "",
+      "level": "Master",
       "keywords": []
     }
   ],
@@ -208,6 +173,10 @@
     {
       "language": "pt",
       "fluency": "Native Speaker"
+    },
+    {
+      "language": "en",
+      "fluency": "Proficient"
     }
   ],
   "interests": [],
