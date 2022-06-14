@@ -12,8 +12,8 @@ https://registry.jsonresume.org/themes
 
 resume serve --theme keloran
 
-resume export test --format pdf --theme keloran --dir ./export
-npm install jsonresume-theme-Elegant
+resume export test --format pdf --theme Orbit --dir ./export
+npm install jsonresume-theme-Orbit
 
 comandos para consertar:
 

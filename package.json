@@ -41,6 +41,7 @@
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-even": "^0.6.0",
     "jsonresume-theme-keloran": "^1.0.2",
+    "jsonresume-theme-orbit": "^1.1.0",
     "mime-types": "^2.1.27",
     "object-path-immutable": "^4.1.1",
     "puppeteer": "^5.2.1",
