@@ -107,9 +107,9 @@
     {
       "institution": "Universidade de Brasília",
       "area": "Network Engeneering",
-      "studyType": "Bachelor of Engineering",
+      "studyType": "Bachelor of Engineering (Incomplete)",
       "startDate": "2017-12-31",
-      "endDate": "2022-12-31",
+      "endDate": "2023-02-31",
       "score": "",
       "courses": []
     }
@@ -176,11 +176,6 @@
     {
       "name": "Microsoft Office",
       "level": "Master",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
       "keywords": []
     }
   ],
